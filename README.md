@@ -1,6 +1,6 @@
 # Tableau: Netflix Trends Dashboard
 
-![image](https://github.com/karanguptaaa/NetflixDashboardUsingTableau)
+![image]([https://github.com/karanguptaaa/NetflixDashboardUsingTableau](https://github.com/karanguptaaa/NetflixDashboardUsingTableau/blob/main/Netflix%20Dashboard.png))
 
 This interactive dashboard explores fascinating trends within the vast Netflix catalogue, empowering viewers and analysts to delve deeper into the content library.
 
