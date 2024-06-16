@@ -1,6 +1,6 @@
 # Tableau: Netflix Trends Dashboard
 
-![image](https://github.com/yashspatel/Netflix-Trends-Dashboard-in-Tableau/blob/main/Netflix%20Dashboard.png)
+![image](https://github.com/karanguptaaa/NetflixDashboardUsingTableau)
 
 This interactive dashboard explores fascinating trends within the vast Netflix catalogue, empowering viewers and analysts to delve deeper into the content library.
 
@@ -32,11 +32,3 @@ Anyone curious about the world of streaming and its ever-evolving landscape.
 Dive into the data and discover the untold stories within Netflix!
 
 
-## *Contact*
-
-To learn more about this project and others:
-
-- [*Portfolio*](https://yashspatel.netlify.app/)
-- [*LinkedIn*](https://www.linkedin.com/in/yashsanjaykumarpatel/)
-- [*GitHub*](https://github.com/yashspatel)
-- [*My Resume*](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf) 
